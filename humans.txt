@@ -1,0 +1,15 @@
+/* TEAM */
+
+Creator: Minds On Design Lab Inc
+URL: https://mod-lab.com
+Description: MOD-Lab is a design studio with digital expertise. We’re passionate about elevating small and mighty teams in the social sector. We connect people to your work through beautifully designed, foundational brand presence.
+
+/* THANKS */
+
+Craft CMS - https://craftcms.com
+Pixel & Tonic - https://pixelandtonic.com
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: Craft CMS 3, Yii2, PHP, JavaScript, SEOmatic
